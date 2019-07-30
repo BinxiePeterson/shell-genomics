@@ -131,7 +131,7 @@ files by setting restrictive file permissions.
 
 You can store any results that are generated from your analysis in
 the `results` folder. This guarantees that you won't confuse results
-file and data files in six months or two years when you are looking
+files and data files in six months or two years when you are looking
 back through your files in preparation for publishing your study.
 
 The `docs` folder is the place to store any written analysis of your
@@ -146,7 +146,7 @@ notebook, including any things they did differently from the
 written protocol. This detailed
 record-keeping process is just as important when doing computational
 analyses. Luckily, it's even easier to record the steps you've 
-carried out computational than it is when working at the bench.
+carried out computationally than it is when working at the bench.
 
 The `history` command is a convenient way to document all the
 commands you have used while analyzing and manipulating your project
